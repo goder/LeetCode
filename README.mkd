@@ -2,12 +2,12 @@
 
 ##|----dir--brainteaser
 ##|-------doc--Nim Game.java
-##|----ir--hashTable
+##|----dir--hashTable
 ##|-------doc--Bulls and Cows.java|
 ##|----dir--math
 ##|-------doc--Rectangle Area.java
 ##|-------doc--Reverse Integer.java
-##|----ir--tree
+##|----dir--tree
 ##|-------doc--Lowest Common Ancestor of a Binary Search Tree.java
 
 ##             
